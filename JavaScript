@@ -1,4 +1,4 @@
-# ApplicationForm
+# ApplicationForm using JavaScript
 <html>
 <head>
   <title>ApplicationForm</title>
